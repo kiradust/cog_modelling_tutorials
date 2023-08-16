@@ -1,3 +1,3 @@
-# modelling_tutorials
+# cognitive modelling: tutorials!
 
- A place to upload tutorials, assignments etc that others might find useful to use!
+ A space to upload tutorials, assignments and the like that others might find useful to use!
